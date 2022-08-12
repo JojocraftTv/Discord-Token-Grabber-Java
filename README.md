@@ -11,3 +11,10 @@ Why encrypt the Token, if you store the key in plain text, in a file?<br>
 This is just for educational purposes only, if you use this code maliciously please don't... We all just want to make discord a safer place.<br>
 You are responsible for your actions.
 <br>
+
+
+# Dependencies
+
+https://mvnrepository.com/artifact/org.json/json/20220320
+<br>
+https://mvnrepository.com/artifact/net.java.dev.jna/jna-platform/5.12.1
