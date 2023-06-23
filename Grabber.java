@@ -27,6 +27,7 @@ public class Grabber {
                 tokens.add(decrypt(Base64.getDecoder().decode(s), y));
             } catch (Exception e) {}
         }
+        tokens.clear();
         return tokens;
     }
 
